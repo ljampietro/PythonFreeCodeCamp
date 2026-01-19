@@ -1,3 +1,6 @@
+.zed
+.venv
+.idea
 exercicio.py
 numbers.py
 testes.py
